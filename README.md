@@ -1,0 +1,1 @@
+# Mnist-Train-Analysis-Using-NeuralNetwork-model-Of-Preceptron-
